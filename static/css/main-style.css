@@ -1,0 +1,30 @@
+/* Google fonts Bangers & Roboto Regular 400 */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto&display=swap');
+
+/* Media Mania navigation bar style */
+.navbar{
+    background: rgb(90, 0, 209); 
+}
+
+#logo{
+    font: 2em 'Bangers', cursive;
+    color: rgb(255,255,255);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255,255,255);
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(255,255,255);
+}
+
+#btn-login{
+    background: rgb(4, 170, 109);
+    border-radius: 5px; 
+    color: rgb(255,255,255);
+    width: 140px;
+    padding: 4px 5px;
+    margin-top: 3px;
+}
+

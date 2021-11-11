@@ -28,3 +28,10 @@
     margin-top: 3px;
 }
 
+/* index.html - main content with hero image */
+#hero-image{
+    background-image: url(../img/hero-image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
